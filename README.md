@@ -22,8 +22,12 @@ The objective of the OMR reader is to simplify the work of teachers by providing
 
 ![alt text](https://user-images.githubusercontent.com/65126211/100473180-c7b31f80-3103-11eb-9fde-9873f187cd56.jpeg)
 
-https://user-images.githubusercontent.com/65126211/100473188-c84bb600-3103-11eb-9567-3caf0455b9bb.jpeg
 
-https://user-images.githubusercontent.com/65126211/100473178-c681f280-3103-11eb-8396-8435d4d1b021.jpeg
+![alt text](https://user-images.githubusercontent.com/65126211/100473188-c84bb600-3103-11eb-9567-3caf0455b9bb.jpeg)
 
-https://user-images.githubusercontent.com/65126211/100473179-c71a8900-3103-11eb-8ecb-da16600f4772.jpeg
+
+![alt text](https://user-images.githubusercontent.com/65126211/100473178-c681f280-3103-11eb-8396-8435d4d1b021.jpeg)
+
+![alt text](https://user-images.githubusercontent.com/65126211/100473179-c71a8900-3103-11eb-8ecb-da16600f4772.jpeg | width=100 | height=100)
+
+
