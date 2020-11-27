@@ -1,1 +1,4 @@
 # OMR-Scanner
+
+
+The objective of the OMR reader is to simplify the work of teachers by providing them with a ‘smart’ solution to correct OMR sheets without the use of the classic OMR machine. The OMR reader merely works on the basis of taking snapshots of the answer key and the response sheets of students, hence can be done in the comfort of one's home and no additional devices are needed.  This project has been designed keeping the classroom in mind. The features of the OMR reader have been tailored to fit the classroom context and have been limited in that way in order to prevent misuse. Despite all of this, we have designed the assistant keeping scalability in mind and have made sure that if the need to add additional features arises, it will be as easy as adding on to the dataset and with a few other additions to the code of the application.
